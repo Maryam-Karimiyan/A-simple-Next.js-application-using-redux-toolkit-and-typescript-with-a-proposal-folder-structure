@@ -1,0 +1,1 @@
+# A-simple-Next.js-application-using-redux-toolkit-and-typescript-with-a-proposal-folder-structure
